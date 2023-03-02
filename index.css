@@ -12,30 +12,29 @@ ul {
     top: 0;
     width: 100%;
 }
-ul :hover{
+#navbar ul :hover{
     background-color: white;
     color: aqua;
 }
 li{
     float: left;
 }
-a{
-    text-decoration: none;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 110px;
+
+#navbar a {
+    float: left;
+    display: block;
     color: white;
     text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+#navbar {
+    overflow: hidden;
     background-color: aqua;
-}
-nav{
-    background-color: aqua;
-    padding: 15px 15px;
-}
+    width: 100%;
+  }
 li {
     display: inline;
   }
-.active {
-    background-color: white;
-    color: aqua
-}
+
