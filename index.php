@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <nav>
+    <nav id= "navbar">
         <ul>
             <li><a href="?menu=home">home</a></li>
             <li><a href="?menu=genre">genre</a></li>
