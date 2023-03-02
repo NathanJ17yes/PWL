@@ -1,8 +1,15 @@
+body{
+    background-color: white;
+}
 .Header {
-    width: 100%;
-    height: 1231231px;
-    padding: 30px;
+    width: 75%;
+    height: 250px;
+    margin-top: 111px;
+    padding-top: 150px;
     text-align: center;
-    background-color: rgba(179, 219, 225, 0.96);
+    margin-left: 10%;
+    color: black;
+    border: 5px solid;
+
     
   }
