@@ -19,13 +19,13 @@
             <div class="collapse navbar-collapse" id="collapsibleNavbar">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="?menu=home">home</a>
+                        <a class="nav-link" href="?menu=home">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="?menu=genre">genre</a>
+                        <a class="nav-link" href="?menu=genre">Genre</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="?menu=book">book</a>
+                        <a class="nav-link" href="?menu=book">Book</a>
                     </li>
                 </ul>
             </div>
