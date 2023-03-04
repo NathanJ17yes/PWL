@@ -1,5 +1,5 @@
 body{
-    background-color: white;
+    background-color: #E1E2E2;
 }
 .Header {
     width: 75%;
@@ -8,8 +8,6 @@ body{
     padding-top: 150px;
     text-align: center;
     margin-left: 10%;
-    color: rgb(19, 212, 238);
-    border: 5px solid aqua;
-
-    
-  }
+    color: #1D2228;
+    border: 5px solid #FB8122; 
+}
