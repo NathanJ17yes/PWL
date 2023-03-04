@@ -1,6 +1,3 @@
-body{
-    background-color: #E1E2E2;
-}
 .Header {
     width: 75%;
     height: 250px;
@@ -12,4 +9,8 @@ body{
     border: 5px solid #FB8122;
     border-radius: 10px;
     font-family: 'Comic Neue', cursive;
+}
+img {
+    position: relative;
+    bottom: 150px;
 }

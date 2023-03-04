@@ -7,12 +7,12 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap" rel="stylesheet">
-    <title>Library Center</title>
+    <title>UltraBook</title>
     <link rel="stylesheet" href = "home.css">
 </head>
 <body>
-    <div class = Header>
-        <h1>Library Center</h1>
-    </div>
+<div class = Header>
+    <img src="assets/Ultra book.png" width="400" height="400">
+</div>
 </body>
 </html>
